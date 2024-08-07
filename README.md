@@ -15,12 +15,6 @@ You’ll make the following updates to the provided Python file for this Challen
 
 You’ll also update the README.md file in your GitHub repository to include an explanation of the Streamlit application, a screenshot or video of your deployed Streamlit application, and any other information that’s needed to interact with your project.
 
-## Files
-
-Download the following files to help you get started:
-
-- [Module 18 Challenge files](link-to-files)
-
 ## Instructions
 
 Open the provided `pychain.py` file, which you’ll use to complete the steps for this Challenge. Notice that the PyChain ledger that you built throughout this module already includes the functionality to create blocks, perform the proof of work consensus protocol, and validate blocks in the chain.
