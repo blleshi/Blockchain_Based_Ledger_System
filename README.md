@@ -1,20 +1,5 @@
 # Blockchain-Based Ledger System
 
-## Background
-
-You’re a fintech engineer working at one of the five largest banks in the world. You were recently promoted to act as the lead developer on their decentralized finance team. Your task is to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger will allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
-
-## What You're Creating
-
-You’ll make the following updates to the provided Python file for this Challenge, which already contains the basic PyChain ledger structure that you created throughout the module:
-
-1. Create a new data class named `Record`. This class will serve as the template for the financial transaction records that the blocks of the ledger will store.
-2. Change the existing `Block` data class by replacing the generic `data` attribute with a `record` attribute that’s of type `Record`.
-3. Create additional user input areas in the Streamlit application. These input areas will collect the relevant information for each financial record that you’ll store in the PyChain ledger.
-4. Test your completed PyChain ledger.
-
-You’ll also update the README.md file in your GitHub repository to include an explanation of the Streamlit application, a screenshot or video of your deployed Streamlit application, and any other information that’s needed to interact with your project.
-
 ## Instructions
 
 Open the provided `pychain.py` file, which you’ll use to complete the steps for this Challenge. Notice that the PyChain ledger that you built throughout this module already includes the functionality to create blocks, perform the proof of work consensus protocol, and validate blocks in the chain.
@@ -35,8 +20,6 @@ Define a new Python data class named `Record`. Give this new class a formalized 
 3. Add an attribute named `sender` of type `str`.
 4. Add an attribute named `receiver` of type `str`.
 5. Add an attribute named `amount` of type `float`.
-
-> **Note:** You’ll use this new `Record` class as the data type of your `record` attribute in the next section.
 
 ### Step 2: Modify the Existing Block Data Class to Store Record Data
 
