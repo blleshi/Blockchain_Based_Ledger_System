@@ -49,4 +49,4 @@ Test your completed PyChain ledger and user interface by running your Streamlit 
 4. Verify the block contents and hashes in the Streamlit drop-down menu. Take a screenshot of the Streamlit application page, which should detail a blockchain that consists of multiple blocks. Include the screenshot in the README.md file for your Challenge repository.
 5. Test the blockchain validation process by using the web interface. Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain. Include the screenshot in the README.md file for your Challenge repository.
 
-![Block_Validation](C:\Users\brigi\Downloads\Block_Validation.png)
+![Ledger]([C:\Users\brigi\Downloads\Block_Validation.png](https://github.com/blleshi/Blockchain_Based_Ledger_System/blob/main/Ledger.png?raw=true))
